@@ -572,7 +572,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "19555cb4845a77fd9a3e05b3c0169613a5161a1b59d73bf5a071ba0074a26b07"
+hash = "a84387f9f9423bcfe00ad50d62b399a4074e40aa15509c76358d0bf09c4272e0"
 metafile = true
 
 [[files]]
@@ -745,7 +745,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d816ebefd14031acd676b2e7dc2d77ea7e1370903ddac480865fb68540216032"
+hash = "9daaee578abbaa18e333150c54459d1d2f7db4976343f710883139d524c4491f"
 metafile = true
 
 [[files]]
