@@ -1,0 +1,13 @@
+name = "Wiz Craft"
+author = "The Great Wizard Council"
+version = "1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6bdbe2169212de9d28380349ac45c3f705358407a08ca89bad2419cf662fd801"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.20.2"
