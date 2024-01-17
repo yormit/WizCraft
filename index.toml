@@ -218,31 +218,31 @@ hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
 [[files]]
 file = "config/create-client.toml"
-hash = "99b3261ce72f4194bd17cdd0b78296c855280d2268df685ecf8970406dd41f31"
+hash = "1642ba698bbbe19ec8a9ba2b37cbcc466a70980c8e099543556faa2567f4d968"
 
 [[files]]
 file = "config/create-common.toml"
-hash = "e450e02e1830c6cdd003f79052d270995b9cda612e1cc568c54e49d8c1899e1a"
+hash = "6f1b1e9797b6ac7edddae40c94e28e5de0b3b7e167a3cf10d52782fc94c64fc2"
 
 [[files]]
 file = "config/createbigcannons-client.toml"
-hash = "6194ef9262a8fc45f8e7e641f4a5dbdabf12294cbf7d0c54c9f9db64bc9b4e09"
+hash = "5a189ae6a6a2e95ec56876db138e7062f831a710e2b8c0c6f0f18611c27eceff"
 
 [[files]]
 file = "config/createbigcannons-common.toml"
-hash = "7eb70257593da06f682a3ddda54a9d260d4fc514f645237f5ca74b08f8da61a6"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
 file = "config/creategoggles-client.toml"
-hash = "215be56c5e3b8fc5ff8d3de4baf049c68b6c5500f0eaea80ffae2c6be322fa11"
+hash = "b9519b05f9ed5e411a6cb25cdab9e7ef244bf9462302e18b48ccc99e8190c4bd"
 
 [[files]]
 file = "config/creategoggles-common.toml"
-hash = "b6123d4a9b2946afa767a48748c5a3fbf32e49d7e2160b8b5585d0e8531f4109"
+hash = "7cb94e58b53427a7d30e0b978b491bb3ae912c28c30193f65f8b69222a30cf01"
 
 [[files]]
 file = "config/croptopia/croptopia.conf"
-hash = "6baaae75d838430b59f116b281f9ad67420a86cc2b01dbc36495a5695ba0f6c2"
+hash = "e2acf56333fe4ea7be9bf4b9aaee87fccc69fe4a89f5ad8f83073418d8051fc4"
 
 [[files]]
 file = "config/entityculling.json"
@@ -270,7 +270,7 @@ hash = "52bdc995bd81169dc8deccece6179838ecff5df81d8b0c8df5ac797150bd6f04"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "fc963cfb61c7b56bfe64347e85cad97c4d20e07b9c1bf8162d205d5954b1f3a6"
+hash = "4fc70194de0648944c3a3ef28f45136f00b14466360d007f24a863f66b5909d7"
 
 [[files]]
 file = "config/figura.json"
@@ -294,7 +294,7 @@ hash = "30fd9bc456ce2f64aa0f0618b9fe3856478109a8e4c3518156e4247b759fd312"
 
 [[files]]
 file = "config/hexbound/config.toml"
-hash = "ccb2ac6c5d8bc937d4a3b3cae22888b5c314f7d6c6fa32e345aadb62adb7c0f9"
+hash = "ac8f5f9225f8fc8698d84ba851f4a8face5dadaf445e9a8413641196a5da9dfe"
 
 [[files]]
 file = "config/hexcasting/client.json5"
@@ -322,11 +322,11 @@ hash = "8dec2c55898abba530cbdf146efab5c0564f0f73c68138eb9dc2c411c2fc664d"
 
 [[files]]
 file = "config/indium-renderer.properties"
-hash = "632fec88add3eea745ae8c4520abb819f998d4241c12540d155cbb96fa5f4233"
+hash = "a0d8381ce4da69470c8bd8a73cc373af038d0d24a339e6c72557ed8bb1d583d2"
 
 [[files]]
 file = "config/iris.properties"
-hash = "5b47f5959bd012cf8ebae343ed7e813a5bc58fced1cfd2b646abd526394ed799"
+hash = "543d1d3ac7f140f5411723fe86139e954d7872a3da88ae2d52931bd84015a818"
 
 [[files]]
 file = "config/jade/hide-entities.json"
@@ -374,7 +374,7 @@ hash = "86f2a2747c29f93de99c649ed2f247da96282efbdf0f1331f9d2a3890c8b2bed"
 
 [[files]]
 file = "config/pal.properties"
-hash = "ff5792dfda2d37815c54c098c33bff329c4ac4a1fca0a8b1fb4da61b158c048f"
+hash = "cc649fe239f0dd6bfea70c6aa0c30d072243a5f649f961e28587353f7a6d4f50"
 
 [[files]]
 file = "config/patchouli.json5"
@@ -386,23 +386,23 @@ hash = "578d70785fa4caf0a65127b9dc0f01f8c41e442824d7eb00a023ba7e8139ef96"
 
 [[files]]
 file = "config/pehkui/config.json"
-hash = "03566f5b722d000ee785cccf8a55651c75c7bc00fea16d2538899578188ebb32"
+hash = "75e8ec2af2fc88915cdb24c8bcc5c1fe4091851ff2b1ed910aa53c0f110883a6"
 
 [[files]]
 file = "config/quilt-loader.txt"
-hash = "abb8f847155794f6010eaaf062bbd3eeb2e5303b6ebdd09b2e870ad620b0af5b"
+hash = "6bb5050d84b2b4976d78cbdafb8b9317a5e58522fe336a94ca45075d658cc82d"
 
 [[files]]
 file = "config/quilt/qsl/registry.toml"
-hash = "e779f85c4292306465a258b9fcfbb72c3590b078787ef79e364ee0845b9f9551"
+hash = "5ef23446d609c713e513f80131eefadefe46bc3b016d58088b18a8ef88ee2217"
 
 [[files]]
 file = "config/railways-client.toml"
-hash = "e89abd5d1d5dfbeb038e82faa949e3865b6027e33e2716741e5a482d10c16adf"
+hash = "bd53460b414882bd01d40d423fd614d219938160d124ea5c7ca43f5099b09c4d"
 
 [[files]]
 file = "config/railways-common.toml"
-hash = "1f660c8bd0c374799862392ef7a56253544f5adaf653e59386cd1eb34f94fa2f"
+hash = "58f7821842631af9ec8bcaddb60526b81cd1b9ad63cbba87c83c70e53c3a9b16"
 
 [[files]]
 file = "config/requiem.json5"
@@ -438,15 +438,15 @@ hash = "eac9a06794f2d9ac70352a6b53cc9c4f8e34fca6718b4c90665e0b65a1c05802"
 
 [[files]]
 file = "config/veinmining-client.toml"
-hash = "d3bfcc0ffa0397f6f0bf5b17d48618595c3d026c0af2d64a22924ff94270575d"
+hash = "19e2bf36ed39d0f992cc05a9c146f7f2ac43d03326460073c98a7e462db0466b"
 
 [[files]]
 file = "config/veinmining-common.toml"
-hash = "659bd8a67209fd4fd3e104aec468f0372c25d65462b8dda5036049aa7508e8fb"
+hash = "f8ea12024c0d3857447bb963aafda11c68895cfdf71311a0851e3bb094562f94"
 
 [[files]]
 file = "config/veinmining-server.toml"
-hash = "6edd5764fd55a34add9c08d2117c82214ca659974c080a32506b3f216705b55b"
+hash = "391551d6952996805edb64d2b54840f18427168ae9eb39cd30c34b8d18c62fc0"
 
 [[files]]
 file = "config/waystones.toml"
@@ -454,11 +454,11 @@ hash = "5a406b26396bb35326d772a6b6cb6c14dd3ba0c07ce0091ce48b4f9df1a63ed8"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
-hash = "1dcee38470c2939f7265891203775b7631c81822bf2506a451727fcaaf2cc4a2"
+hash = "12d59cbd75c19a2bfb7f837f161f762e6136e834b07d3c3c5bba806a66e34bc2"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "da900d21b3e5856e3356da389e682cf1dc6401f13e365db57f2511b4f72715cb"
+hash = "8db486b2f1002f93b36dacb318e344d680e85832d41692b304bc3df87653fe58"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -470,11 +470,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
-hash = "103979a8e59e396f99fb8646c4f8a690c2d743ca3744a2eb8f663b3102b7498c"
+hash = "d1f01c1b88e9f0273da1a90cd0c5d0ff62c2313b7ef4c901993aa8cafa84e5d6"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "94af5b1f516cd74a29fa6f75a99ec52634c5b93f2d67438aee1485267e02a63e"
+hash = "210c44e2d60698c3f38d36bce311b90b27f356891b7a7cac3fec9d2397fa80c5"
 
 [[files]]
 file = "mods/appleskin.pw.toml"
@@ -617,6 +617,11 @@ hash = "8a88c7169f5fd3231d3ff329aeb1c88e9befe3051887f8c7fbd09c6bd4530f53"
 metafile = true
 
 [[files]]
+file = "mods/hextended-staves.pw.toml"
+hash = "3ad8cdda38ecf39f0add9e30d9a3f810e5253ec44e14a66ffd1cb303839269b4"
+metafile = true
+
+[[files]]
 file = "mods/hextweaks.pw.toml"
 hash = "f8989baf7649dd44d8db505a36ab57536663471d003def1afe510a8d9dacc8a9"
 metafile = true
@@ -679,6 +684,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "f1c5339de1b7ffa1d2e8b8e0c4d08802de33dc47dd9cd19c1b997f959e5c308c"
+metafile = true
+
+[[files]]
+file = "mods/oneironaut.pw.toml"
+hash = "a8b6c42b612a29a51c1e8e65a48a8a55645c02e46db999e7f7bc4c22fcb7aec4"
 metafile = true
 
 [[files]]
